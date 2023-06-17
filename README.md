@@ -3,7 +3,7 @@
 
 ` No momento, continuo estou buscando por uma oportunidade no mercado como desenvoldor web, tendo maior proficiência utilizando JavaScript, mas possuo familiaridade com TypeScript e Python. Desenvolvo aplicações de Front-End, paginas, formulariosm, e no Back-End, banco de dados, tabelas, CRUD, sendo mais habilidoso no desenvolvimento de ambientes de back-end seguindo caracteristicas do SOLID e API-RESTFUL. Além disso, sou capacitado para desenvolver testes unitarios para ambas as stacks.`
 
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]()
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](http://renanaizawa@outlook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renanaizawa/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-aizawa-a46067226/)
 
