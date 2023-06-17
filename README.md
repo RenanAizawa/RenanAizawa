@@ -1,7 +1,7 @@
 
 ### Olá, Eu sou Renan Aizawa 💻
 
-` No momento continuo estou buscando por uma oportunidade no mercado como desenvoldor web, tendo maior proeficiência utilizando JavaScript, mas possuo familiaridade com TypeScript e Python. Desenvolvo desde simples aplicações de Front-End e Back-End, sendo mais habilidoso no desenvolvimento de ambientes de back-end seguindo caracteristicas do SOLID e API-RESTFUL. Além disso, sou capacitado para desenvolver testes unitarios para ambas as stacks.`
+` No momento continuo estou buscando por uma oportunidade no mercado como desenvoldor web, tendo maior proficiência utilizando JavaScript, mas possuo familiaridade com TypeScript e Python. Desenvolvo desde simples aplicações de Front-End e Back-End, sendo mais habilidoso no desenvolvimento de ambientes de back-end seguindo caracteristicas do SOLID e API-RESTFUL. Além disso, sou capacitado para desenvolver testes unitarios para ambas as stacks.`
 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renanaizawa/)
