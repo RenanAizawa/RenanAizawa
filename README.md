@@ -7,9 +7,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renanaizawa/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-aizawa-a46067226/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanAizawa&show_icons=true&theme=gruvbox)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanAizawa)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanAizawa)](https://github.com/RenanAizawa/RenanAizawa)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanAizawa&hide_progress=true)
 
 ### Tecnologias que eu tenho proficiência
 <div style="display: inline_block"><br/>
